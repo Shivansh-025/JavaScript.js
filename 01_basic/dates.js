@@ -22,8 +22,8 @@ let myTime=Date.now()
 
 let newDate = new Date()
 console.log(newDate);
-console.log(newDate.getMonth() + 1);
-console.log(newDate.getDay());
+console.log(newDate.getMonth() + 1);//12
+console.log(newDate.getDay());//4
 
 // `${newDate.getDay()} and the time `
 
